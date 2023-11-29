@@ -15,11 +15,9 @@ services:
       - "7128:7128"
       - "32768:32768"
     depends_on:
-      - sql-server
+      - sql-server-db
     environment:
       - SQL_SERVER_CONNECTION_STRING=Server=localhost;Database=Unimax;Trusted_Connection=True;
-    volumes:
-      - ./Database:/docker-entrypoint-initdb.d
 
   sql-server-db:
     container_name: sql-server-db
