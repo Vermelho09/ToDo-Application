@@ -20,8 +20,8 @@ Alors, pour l'exécution directe, voici les informations:
   - ouvrir le https://localhost:7128/swagger
 
 - Frontend: 
-  - dans le chemin "Frontend/ToDo.WebApp" executer "ng serve";
-  - ouvrir le https://localhost:4200;
+  - dans le chemin "Frontend/ToDo.WebApp", vous devez executer les "npm install" et "ng serve";
+  - Après, ouvrir le https://localhost:4200;
 
 De plus: API HealthCheck -> https://localhost:7128/health
 
