@@ -9,11 +9,10 @@ services:
 
   api:
     build:
-      context: ./
+      context: .
       dockerfile: Dockerfile
     ports:
       - "7128:7128"
-      - "32768:32768"
     depends_on:
       - sql-server-db
     environment:
