@@ -1,5 +1,9 @@
 Create database Unimax
+Go
+
 Use Unimax
+Go
+
 
 CREATE TABLE ToDoTasks (
     ToDoTaskId INT IDENTITY(1,1) PRIMARY KEY,

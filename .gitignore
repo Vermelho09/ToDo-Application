@@ -1,0 +1,54 @@
+# .NET
+bin/
+obj/
+*.suo
+*.user
+*.vscode/
+*.nupkg
+*.dotnet-*
+*.dll
+*.exe
+*.pdb
+*.log
+*/bin/
+*/obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo.lock
+*.user.lock
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Angular
+node_modules/
+/dist/
+
+# .NET Core
+**/bin/
+**/obj/
+**/out/
+**/*.swp
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.suo.lock
+**/*.user.lock
+**/dotnet-*/
