@@ -15,7 +15,7 @@ Alors, pour l'exécution directe, voici les informations:
   - Executer le fichier "Create All.sql";
 
 - API: 
-  - Il faut garantir l'accès au SQL Local à la base "Unimax" - SqlConnectionString : "Server=localhost;Database=Unimax;Trusted_Connection=True;" ou le changer sur l'API;
+  - Il faut garantir l'accès au SQL Local à la base "Unimax" - SqlConnectionString : "Server=localhost;Database=Unimax;Trusted_Connection=True;" ou le changer sur l'API <> Situé sur le "appsettings.json";
   - executer le profil "ToDo_API.Web";
   - ouvrir le https://localhost:7128/swagger
 
