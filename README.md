@@ -7,7 +7,7 @@ J'ai créé :
   - une API .NET 6 que l'on peut ouvrir avec le fichier "ToDo-Project.sln";
   - une base de données SQL Server (contenant seulement une table), avec le script pour sa création situé dans "Database/CreateAll.sql".
 
-J'ai créé le fichier "docker-compose.yml" et le Dockerfile pour le 'build' complet avec des dépendances, cependant, il y avait des differant pròbleme...
+J'ai créé le fichier "docker-compose.yml" et le Dockerfile pour le 'build' complet avec des dépendances, cependant, il n'est pas complet et il me faudrait plus de temps pour le rendre fonctionnel.
 
 Alors, pour l'exécution manuelle, voici les informations:
 
