@@ -21,15 +21,21 @@ services:
     volumes:
       - ./Database:/docker-entrypoint-initdb.d
 
-  sql-server:
-    image: mcr.microsoft.com/mssql/server
+  sql-server-db:
+    container_name: sql-server-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
     environment:
+      SA_PASSWORD: "Password123"
       ACCEPT_EULA: "Y"
-      MSSQL_PID: "Express"
     ports:
       - "1433:1433"
     volumes:
-      - sql-server-data:/var/opt/mssql/data
+      - ./Database:/docker-entrypoint-initdb.d
+    # command: >
+    #     bash -c '
+    #     /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P Password123 -i docker-entrypoint-initdb.d/CreateAll.sql;
+    #     echo "All done!";
+    #     '
 
 volumes:
   sql-server-data:
