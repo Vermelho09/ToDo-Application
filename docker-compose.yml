@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  angular-app:
+    build:
+      context: ./Frontend/ToDo.WebApp
+    ports:
+      - "4200:4200"
+
+  api:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - "7128:7128"
+      - "32768:32768"
+    depends_on:
+      - sql-server
+    environment:
+      - SQL_SERVER_CONNECTION_STRING=Server=localhost;Database=Unimax;Trusted_Connection=True;
+    volumes:
+      - ./Database:/docker-entrypoint-initdb.d
+
+  sql-server:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Express"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-server-data:/var/opt/mssql/data
+
+volumes:
+  sql-server-data:

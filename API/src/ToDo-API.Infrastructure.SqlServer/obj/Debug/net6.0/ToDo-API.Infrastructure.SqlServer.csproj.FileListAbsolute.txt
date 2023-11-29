@@ -1,0 +1,17 @@
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.deps.json
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.AssemblyInfoInputs.cache
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.AssemblyInfo.cs
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.csproj.CoreCompileInputs.cache
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\refint\ToDo-API.Infrastructure.SqlServer.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ref\ToDo-API.Infrastructure.SqlServer.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Application.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Domain.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Application.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\bin\Debug\net6.0\ToDo-API.Domain.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.csproj.AssemblyReference.cache
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Infrastructure.SqlServer\obj\Debug\net6.0\ToDo-API.Infrastructure.SqlServer.csproj.CopyComplete

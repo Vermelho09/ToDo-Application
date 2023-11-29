@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kzNNscuJLTnipF9ay4JtkCotC3TdkLS0vL6SiHxnSupkLJxY2EBeVhj9HjZHjoo1pPIknWMPZmgoN/JdhIz9w==",
+  "success": true,
+  "projectFilePath": "D:\\REPOS\\3 - Challenges\\PointS - UNIMAX\\ToDo-Project\\API\\src\\ToDo-API.Application\\ToDo-API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b-pil\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\b-pil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\b-pil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

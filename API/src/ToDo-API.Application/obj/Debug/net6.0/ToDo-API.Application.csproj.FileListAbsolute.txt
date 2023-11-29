@@ -1,0 +1,15 @@
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\bin\Debug\net6.0\ToDo-API.Application.deps.json
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\bin\Debug\net6.0\ToDo-API.Application.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\bin\Debug\net6.0\ToDo-API.Application.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.AssemblyInfoInputs.cache
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.AssemblyInfo.cs
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.csproj.CoreCompileInputs.cache
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\refint\ToDo-API.Application.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ref\ToDo-API.Application.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\bin\Debug\net6.0\ToDo-API.Domain.dll
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\bin\Debug\net6.0\ToDo-API.Domain.pdb
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.csproj.AssemblyReference.cache
+D:\REPOS\3 - Challenges\PointS - UNIMAX\ToDo-Project\API\src\ToDo-API.Application\obj\Debug\net6.0\ToDo-API.Application.csproj.CopyComplete
